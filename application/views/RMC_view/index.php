@@ -251,7 +251,8 @@ $this->load->view('RMC_view/layout/header_view.php');
                         <img src="<?php base_url(); ?>assets/image/services2/Group 35.png" alt="img1" class="rev">
                     </div>
                     <p style="font-size: 16px;" class="fon-head">Land Reports & Acquisition</p><br>
-=
+                    <p style="font-size: 16px;" class="fon-head">Land Reports & Acquisition</p><br>
+
                     <p class="fon-text">
                     We're Maharashtra's top consultants, aiding government and private clients in land acquisition, ensuring a smooth process from proposals to payments for project success.
                     </p>
