@@ -1,22 +1,39 @@
 body {
-	background-color: #f1f6f8;
+	background-color: #F6FBFE;
 }
 
+.read-about-us-btn{
+	padding: 10px;
+    height: 20px;
+    width: 200px;
+    background-color: white;
+    color: #243d71;
+    border: 0px solid white;
+    border-radius: 5px;
+	margin:0 0 0 0 ;
+}
 
-.abt-title{
-	font-weight: 800;
-    font-size: 56px;
+.abt-title {
+	font-weight: 800 !important;
+    font-size: 80px;
     text-align: left;
+}
+	 
+.carousel {
+    position: relative;
+	border-bottom:0.1px solid #243d71 ;
+	/* box-shadow: 0 -6px 19px #243d71, 0 0 0px rgba(0,0,0,0); */
+	box-shadow: 0px 15px 10px -15px #243d71; 
 }
 
 .about-description {
-    position: absolute;
-    top: 13%;
-    width: 500px;
-    color: white;
-    left: 47px;
-    font-size: 13px;
-    text-align: left;
+	position: absolute;
+	top: 13%;
+	width: 500px;
+	color: white;
+	left: 47px;
+	font-size: 13px;
+	text-align: left;
 }
 
 .under_logo {
@@ -166,6 +183,8 @@ body {
 
 .navbar {
 	color: #243d71;
+	border-bottom: 0.1px solid #243d71;
+	
 }
 @media (min-width: 992px) {
 	.navbar-expand-lg .navbar-collapse {
@@ -323,7 +342,7 @@ body {
 	width: 161px;
 	border: none;
 	background-color: #243d71;
-	color: bisque;
+	color: white;
 	border-radius: 6px;
 	padding: 13px;
 }
@@ -1148,15 +1167,14 @@ textarea {
 }
 .fon-text {
 	margin: auto;
-    font-size: 13px;
-    font-family: Montserrat;
-    /* text-align: justify; */
-    justify-content: normal;
-    font-family: Montserrat;
-    /* margin: -17px 0 17px 0; */
-    /* word-spacing: -3px; */
+	font-size: 13px;
+	font-family: Montserrat;
+	/* text-align: justify; */
+	justify-content: normal;
+	font-family: Montserrat;
+	/* margin: -17px 0 17px 0; */
+	/* word-spacing: -3px; */
 }
-
 
 .fon-head {
 	font-size: 15px;
@@ -1532,6 +1550,10 @@ a:hover {
 	width: 20%;
 	font-size: 21px;
 	margin: 23px 39% !important;
+}
+.btn-6:hover {
+	color: white;
+	background-color: #243d71 !important;
 }
 .container-colab {
 	display: flex;

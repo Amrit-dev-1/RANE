@@ -124,7 +124,9 @@ $this->load->view('RMC_view/layout/header_view.php');
                 <h4 class="abt-title" style="color: white;">About US</h4><br>
                 <p style="color: white;">Founded in 1995 Director Mr. Manmohan B. Rane, Specializes in providing precise land survey data for both private & government agencies. In 2002, the company expanded its services to include city survey work for various Maharashtra corporations, successfully completing 8 municipal city survey projects</p>
 
-                <p style="color: white;">This expansion led to further growth in land acquisition, infrastructure planning, & design. Anticipating future demands, the company established an IT cell for GIS solutions in 2014 to meet the emerging consumer needs in application development related to mapping technology.</p>
+                <p style="color: white;">This expansion led to further growth in land acquisition, infrastructure planning, & design. Anticipating future demands, the company established an IT cell for GIS solutions in 2014 to meet the emerging consumer needs in application development related to mapping technology.</p><br>
+                <a href="<?php base_url(); ?>About_con"><buton class="read-about-us-btn"> Read more </button> </a>
+          
             </div>
 
 
@@ -427,7 +429,7 @@ $this->load->view('RMC_view/layout/header_view.php');
     <h4 style="font-weight:800">There's a lot more<br> to us Let's get Started</h4>
 
     <button type="button" class="btn btn-primary btn-6" data-toggle="modal" data-target="#myModal">
-        Open Form
+    Collaborate With Us
     </button>
 
     <!-- Modal -->
@@ -437,7 +439,7 @@ $this->load->view('RMC_view/layout/header_view.php');
 
                 <!-- Modal Header -->
                 <div class="modal-header">
-                    <h4 class="modal-title">Fill out the Form</h4>
+                    <h4 class="modal-title">Fill the Form </h4>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
 
@@ -479,10 +481,12 @@ $this->load->view('RMC_view/layout/header_view.php');
 
 
     <br><br><br>
+<style>
 
+
+    </style>
 </body>
 <!-- footer area  -->
-
 
 <?php
 $this->load->view('RMC_view/layout/footeer_view.php');
