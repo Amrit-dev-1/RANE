@@ -1,6 +1,7 @@
 body {
-	background-color: white;
+	background-color: #f1f6f8;
 }
+
 
 .abt-title{
 	font-weight: 800;
@@ -750,7 +751,7 @@ body {
 [type="submit"]:not(:disabled),
 button:not(:disabled) {
 	cursor: pointer;
-	margin: 7px 0 1px 0px;
+	/* margin: 7px 0 1px 0px; */
 }
 .btn-5 {
 	width: 350px;
@@ -1530,6 +1531,7 @@ a:hover {
 	border-radius: 25px;
 	width: 20%;
 	font-size: 21px;
+	margin: 23px 39% !important;
 }
 .container-colab {
 	display: flex;
