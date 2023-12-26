@@ -1584,3 +1584,18 @@ a:hover {
 .heading {
 	padding-top: 30px;
 }
+
+/* Aishwarya Code start 26-12-2023 */
+.footer-list{
+	text-align: left;
+    padding-left: 125px;
+}
+.subscribe-form{
+	position: relative;
+}
+.subscribe-form .submit-button{
+	position: absolute;
+	margin: -38px 0 0px 77px;
+	padding: 7px 20px;
+}
+/* Aishwarya Code end 26-12-2023*/
