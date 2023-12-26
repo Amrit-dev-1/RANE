@@ -1,0 +1,270 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+/* navigation bar */
+.navbar-light .navbar-nav .active {
+  border-bottom: 2px solid #37587b;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #37587b;
+}
+/* end of navigation bar */
+
+/*mega menu*/
+/* .dropdown-hover {
+  float: left;
+  overflow: hidden;
+  transition:  0.3s ease-in-out, color 0.3s ease-in-out;
+
+} */
+.dropdown-hover:hover{
+  transition: 0.5s ease-in-out;
+  transition-delay: 1s;
+
+}
+
+.dropdown-hover-content {
+  display: none;
+  position: absolute;
+  margin-top: 2px;
+  background-color: #fff;
+  transition:2s .5s;
+  left: 0;
+  right: 0;
+
+  z-index: 4;
+ 
+}
+.dropdown-hover-content:hover{
+  transition:  0.9s ease-in-out;
+  
+}
+
+.dropdown-hover-content .row:hover {
+  width: 100%;
+}
+
+.dropdown-hover-content a.dropdown-item {
+  font-size: 18px;
+
+  line-height: 2;
+}
+
+.dropdown-hover:hover .dropdown-hover-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 394px;
+  transition: 0.3s ease-in-out, color 0.3s ease-in-out;
+  margin: 3px 0px 0 0px;
+  justify-content: center;
+  padding: 19px 33px 0 0;
+}
+
+#link-1:hover {
+  border-bottom: 2px solid #37587b;
+  transition: 0.3s ease-in-out;
+}
+
+
+/*end of mega menu*/
+
+@media (max-width: 575.98px) {
+  .megamenu {
+    padding: 0;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .megamenu {
+    padding: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .megamenu {
+    padding: 0;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+
+.service-para {
+  /* width: 120%; */
+  line-height: normal;
+
+  font-size: 15px;
+ 
+}
+
+.colour-2{
+    font-size: 70px;
+    color: #243D71;
+    padding: 10px;
+    font-weight: 700;
+    width: 95%;
+   
+}
+
+.colour{
+    padding:10px;
+}
+
+/* Mega menu content styles */
+
+/* Ensure proper alignment and spacing within the mega menu content */
+#link-2 .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+}
+
+
+
+#link-2 .col-md-4 {
+  flex: 0 0 calc(20.3333% - 10px);
+  margin-right: 36px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+/* Add responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    #link-2 .row {
+        flex-direction: column; /* Stack content in a single column */
+    }
+
+    #link-2 .col-md-4 {
+        flex: 0 0 100%; /* Full width for each column on smaller screens */
+        margin-right: 0;
+        padding: 20px; /* Add padding for spacing */
+        box-sizing: border-box; /* Ensure padding doesn't affect the total width */
+    }
+}
+
+.mb-2, .my-2 {
+    margin-bottom: 0.5rem!important;
+    text-align: center;
+
+}
+
+.colour{
+    color: #243D71;
+    font-size: 20px;font-weight: 700;
+    font-size: 30px;
+}
+
+.mybtn6{
+    background-color: #243D71;
+    height:40px;
+    width:160px;
+    border: none;
+    border-radius: 25px;
+    color:white;
+}
+
+
+.banner2 {
+  position: relative;
+}
+
+/* .banner img {
+  max-width: 100%;
+  height: auto;
+} */
+
+.text-overlay {
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.banner-heading {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.banner-para {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.mybtn {
+  color: #243D71;
+  border: none;
+  padding: 6px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 0 0px 23px;
+}
+
+.mybtn:hover {
+  background-color: 243D71;
+}
+
+.col-sm {
+  line-height: 27px;
+  flex-grow: 0;
+  margin-left: -7%;
+}
+
+.link{
+  font-size: 28px;
+  width: 250px;
+  text-align: justify;
+  color: #16181b;
+  padding: 30px 0 0 10px;
+}
+
+.link-style{
+  font-family: Montserrat;
+  font-size: 40px;
+}
+
+
+h4 {
+  font-family: Montserrat;
+  color: #243D71;
+  font-size: 41px;
+  margin: auto;
+
+  text-align: center;
+  font-weight: 900;
+}
+.p-0{
+  color: #243D71;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.p-0:hover{
+  color: #243D71;
+  font-weight: 700;
+  background-color: white;
+}
+.dot{
+    list-style-type: none;
+    
+}
+.colour:hover{
+  color: #243D71;
+}
+
+.para0{
+  width: 300px;
+}

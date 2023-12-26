@@ -1,0 +1,95 @@
+<div class="mobile-container container-fluid ">
+    <div class="about-banner_img_1 ">
+       <img src="assets/image/Path6001.png" class="about-img ">
+       <div class="abt-text">
+        <!-- <h4 class="abt-text1">About Us</h4> -->
+        <!-- <p class="abt-text1" >About Us</p>  -->
+        <!-- <p style="font-size:12px;  color:white;  line-height:inherit; " class=" about-para ">
+                
+
+                    Founded In 1995 Director Mr. Manmohan B. Rane, Specializes in providing precise land survey data for both private & government agencies. In 2002, the company expanded its services to include city survey work for various Maharashtra corporations, successfully completing 8 municipal city survey projects.
+
+                <br>
+
+                This expansion led to further growth in land acquisition, infrastructure planning, & design. Anticipating future demands, the company established an IT cell for GIS solutions in 2014 to meet the emerging consumer needs in application development related to mapping technology.
+
+
+        </p>
+                <button class="mybtn"> Read More </button> -->
+        </div>
+      
+
+
+
+
+    </div>
+<div class="about-banner_img_2">
+<img src="assets/image/About Us Section New - Copy.png" class="about-img2 img-fluid">
+</div>
+    </div>
+    </div>
+
+
+
+ <!--   
+<section class="ban_sec">
+
+ <div class="text">
+    <span class="choose" style="margin-left:-2%; font-size:29px; color:#243D71; font-weight:700;">Why Choose Us</span>
+  </div> 
+  <div class="container">
+            
+			<div class="ban_img">
+	<img src="assets/image/banner-3/unnamed.png" alt="banner" border="0" class="ban2">
+				<div class="ban_text">
+
+                <div class="text">
+    <span class="choose" style="margin-left:-2%; font-size:29px; color:#243D71; font-weight:700;"> <span class="decoration">Why</span>  Choose Us</span>
+  </div> -->
+
+   <!-- <div class="container02">
+    
+	
+  			<strong>
+					<span class="head4" style="font-weight: 700; font-weight:700; font-size:20px; color:#243D71"><span class="decoration-1">Experi</span>ence<br> 
+					</strong>
+					<p class="font2" style="font-size: 16px;"> With a track record dating back to 1992, our experience <br> speaks for itself. </p>
+                    <br>
+                    
+					<strong>
+					<span class="head4" style="font-weight: 700; font-size:20px; font-weight:700;  color:#243D71">Expert Team</span><br> 
+					</strong>
+					<p class="font2"  style="font-size: 16px;">Our team of skilled engineers brings a wealth of knowledge<bR> to every project. </p><br>
+                     
+					<strong>
+					<span class="head4" style="font-weight: 700; font-size:20px; font-weight:700; color:#243D71">Cutting Edge Technology</span><br> 
+					</strong>
+					<p class="font2"  style="font-size: 16px;">We invest in the latest surveying tools to ensure accurate <br> results.</p><br>
+                    
+					<strong>
+					<span class="head4" style="font-weight: 700; font-size:20px; font-weight:700;  color:#243D71">Comprehensive Services</span><br> 
+					</strong>
+					<p class="font2"  style="font-size: 16px;">From topographic surveys to CAD deliverables, we've<bR> got you covered. </p><Br>
+                    
+					<strong>
+					<span class="head4" style="font-weight: 700; font-size:20px; font-weight:700; color:#243D71">Versatity</span><br> 
+					</strong>
+					<p class="font2"  style="font-size: 16px;">We adapt our services to various industries and project<bR> scopes. </p><br>
+                   
+                     
+					<strong>
+					<span class="head4" style="font-weight: 700; font-size:20px; font-weight:700; color:#243D71">Reliability</span><br> 
+					</strong>
+					<p class="font2"  style="font-size: 16px;">Count on us for precise data that you can trust for your <br>decision-making. </p><br>
+                                 
+	
+				</div>
+
+                </div>	
+			</div>
+		</div>
+	</section>
+    
+    <div>
+    </div>
+  </div> -->

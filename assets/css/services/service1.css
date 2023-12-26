@@ -1,0 +1,190 @@
+.banner-back {
+    background-color: #243D71;
+    width: 344px;
+    padding: 10px;
+    color: white;
+    opacity: 0.9;
+    margin: 9% 0px 0px 5%;
+}
+.banner-title {
+    font-size: 36px;
+}
+.banner-para{
+    color:white;
+    font-size: 14px;
+}
+.container-para{
+    width: 80%;
+    margin: auto;
+    font-weight: 700;
+
+}
+.container-1{
+    padding: 25px 73px 0 6px;
+}
+.container-2{
+    padding: 0 0 0 105px;
+}
+.container-3{
+    padding: 25px 73px 0 6px;
+}
+.container-4{
+    padding: 0 0 0 105px;
+}
+.container-5{
+    padding: 25px 73px 0 6px;
+}
+.container-6{
+    padding: 0 0 0 105px;
+}
+.container-7{
+    padding: 25px 73px 0 6px;
+}
+.contout{
+    width: 100%;
+} 
+.survey-head {
+    /* margin: 0px 0 0 -195px; */
+    padding: 40px 0 19px 0px;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: left;
+}
+.survey-para{
+    color: black;
+     border-bottom: 2px solid #243D71;
+     padding: 0 0 21px 0;
+     text-align: justify;
+}
+
+.proj-logo{
+padding:10px 0 0 0 ;
+width:76%;
+}
+
+.survey-head2{
+    margin: 0px 0 0 -69%;
+    padding: 0px 0 19px 0;
+    font-weight: 700;
+    font-size: 26px;
+}
+.survey-head3{
+    padding: 0px 0 19px 0;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: left;
+    
+}
+.survey-head4{
+    margin: 0px 0 0 1%;
+    padding: 0px 0 19px 0;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: left;
+}
+.survey-head5{
+    margin: 0px 0 0 1%;
+    padding: 0px 0 19px 0;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: left;
+}
+.survey-head6 {
+    margin: 0px 0 0 -5px;
+    padding: 40px 0 19px 0px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: left;
+}
+
+
+.client-project{
+    display: flex;
+    padding:0 0 17px 0;
+    border-bottom: 2px solid #243D71;
+
+}
+.logo-dis {
+    font-size: 12px;
+    padding: 1px 12px 0px 0px;
+    font-weight: 900;
+    text-align: left;
+
+}
+.logo-dis2{
+    font-size: 12px;
+    padding: 57px 12px 0px 0px;
+    font-weight: 900;
+    text-align: center;
+}
+.Key{
+    margin: 6px 0px 0px -69%;
+    font-size: 28px;
+    font-weight: 700;
+}
+.dot{
+    margin: 3px 12px 0px 0px;
+}
+.decor{
+    font-weight: 900;
+    color: #243D71;
+}
+.img-1{
+    align-items: center;
+    padding:0 0 0 0;
+}
+
+.four-logo{
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.container-8 {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 86px 0px;
+  }
+  .row01{
+    height:330px;
+    width: 700px;
+    border:1px solid #243D71;
+    padding: 0 0 0 0;
+    border-radius: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  }
+
+.btns{
+    background-color: #243D71;
+    color: white;
+    padding:20px;
+    width: 100px;
+    border-radius: 24px;
+    font-size: 16px;
+}
+
+
+  
+  .row01:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+
+  .col-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-left: -3%;
+}
+
+.slider-title-head{
+    display: flex;
+}
+.target{
+    padding:3px;
+    font-size: 15px;
+}
+
+.col6-custom{
+    padding: 87px 0 0 0;
+    margin: 0 0 0 -11px;
+}
