@@ -141,20 +141,20 @@
     <script>
         AOS.init();
     </script>
-  
-<script>
-    let prevScrollPos = window.pageYOffset;
-const navbar = document.getElementById('navbar');
 
-window.onscroll = function() {
-  const currentScrollPos = window.pageYOffset;
+    <script>
+        let prevScrollPos = window.pageYOffset;
+        const navbar = document.getElementById('navbar');
 
-  if (prevScrollPos > currentScrollPos) {
-    navbar.classList.add('navbar-show');
-  } else {
-    navbar.classList.remove('navbar-show');
-  }
+        window.onscroll = function() {
+            const currentScrollPos = window.pageYOffset;
 
-  prevScrollPos = currentScrollPos <= 0 ? 0 : currentScrollPos;
-};
+            if (prevScrollPos > currentScrollPos) {
+                navbar.classList.add('navbar-show');
+            } else {
+                navbar.classList.remove('navbar-show');
+            }
+
+            prevScrollPos = currentScrollPos <= 0 ? 0 : currentScrollPos;
+        };
     </script>
